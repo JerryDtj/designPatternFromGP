@@ -3,7 +3,7 @@ package patten.proxy.custom;
 import java.io.*;
 
 /**
- * 代码生成，编译，重新动态加载到jvm中
+ * 重新动态加载到jvm中
  */
 public class MyClassLoader extends ClassLoader {
 
