@@ -55,6 +55,11 @@ public class MyProxy {
         return null;
     }
 
+    /**
+     * 重新生成一个代理对象的实例
+     * @param interfaces
+     * @return
+     */
     public static String generateSrc(Class<?> interfaces){
         String ln = "\r\n";
         StringBuffer buffer = new StringBuffer("package patten.proxy.custom;").append(ln);

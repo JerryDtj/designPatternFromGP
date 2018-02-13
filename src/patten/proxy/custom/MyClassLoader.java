@@ -14,6 +14,12 @@ public class MyClassLoader extends ClassLoader {
         this.file = new File(path);
     }
 
+    /**
+     * 根据传入的代理对象名称，把该对象动态加载到jvm中
+     * @param name
+     * @return
+     * @throws ClassNotFoundException
+     */
     @Override
     protected Class<?> findClass(String name) throws ClassNotFoundException {
         String className = MyClassLoader.class.getPackage().getName()+"."+name;
