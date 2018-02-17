@@ -2,37 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="676f36f3-6243-4eff-81c3-fb813345a116" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/Roboot.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/RobootA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/RobootB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/RobootC.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/abstr/AbstractFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/abstr/RabootAFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/abstr/RabootBFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/abstr/RabootCFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/abstr/RabootFactoryClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/abstr/RebootFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/function/FunctionFactoryClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/function/RabootAFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/function/RabootBFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/function/RabootCFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/function/RebootFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/simple/SimpleFactoryClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/simple/SimpleRobootFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/factory/simple/SimpleRobootReflexFactory.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/LinZhiling.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/ZhoudDafu.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/Zhouxinxin.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/simple/SimpleFactory.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/simple/SimpleFactoryTest.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/simple/SimpleReflexFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/patten/factory/LinZhiling.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/patten/factory/ZhoudDafu.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/patten/factory/Zhouxinxin.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/patten/factory/simple/SimpleFactory.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/patten/factory/simple/SimpleFactoryTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/patten/factory/simple/SimpleReflexFactory.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -566,12 +541,12 @@
       <workItem from="1518530592909" duration="4740000" />
       <workItem from="1518537336096" duration="131000" />
       <workItem from="1518749353563" duration="9928000" />
-      <workItem from="1518837154486" duration="10354000" />
+      <workItem from="1518837154486" duration="10404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56348000" />
+    <option name="totallyTimeSpent" value="56398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
@@ -587,7 +562,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
