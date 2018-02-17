@@ -1,7 +1,13 @@
 package patten.factory.simple;
 
-public class SimpleReflexFactory {
-    public <T>T makePersion(Class clazz){
+import patten.factory.Roboot;
+import patten.factory.RobootA;
+import patten.factory.RobootB;
+import patten.factory.RobootC;
+
+public class SimpleRobootReflexFactory {
+
+    public <T>T makeRoboot(Class clazz){
         T result = null;
         try {
             result = (T) Class.forName(clazz.getName()).newInstance();
@@ -14,5 +20,4 @@ public class SimpleReflexFactory {
         }
         return result;
     }
-
 }
