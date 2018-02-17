@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="676f36f3-6243-4eff-81c3-fb813345a116" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/LinZhiling.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/ZhoudDafu.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/Zhouxinxin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/simple/SimpleFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/simple/SimpleFactoryTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/factory/simple/SimpleReflexFactory.class" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/singleton/Singleton.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,20 +27,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RabootBFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/patten/factory/function/RabootBFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RabootCFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/patten/factory/function/RabootCFactory.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,11 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FunctionFactoryClient.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FunctionFactoryClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/patten/factory/function/FunctionFactoryClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="56" />
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/patten/singleton/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -165,8 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/patten/factory/simple/ZhouxinxinFactory.java" />
-        <option value="$PROJECT_DIR$/src/patten/factory/LinZhilingFactory.java" />
         <option value="$PROJECT_DIR$/src/patten/factory/ZhoudDafuFactory.java" />
         <option value="$PROJECT_DIR$/src/patten/factory/ZhouxinxinFactory.java" />
         <option value="$PROJECT_DIR$/src/patten/factory/simple/Simplefactory.java" />
@@ -216,6 +206,8 @@
         <option value="$PROJECT_DIR$/src/patten/factory/abstr/RebootFactory.java" />
         <option value="$PROJECT_DIR$/src/patten/factory/abstr/AbstractFactoryClient.java" />
         <option value="$PROJECT_DIR$/src/patten/factory/abstr/RabootFactoryClient.java" />
+        <option value="$PROJECT_DIR$/src/patten/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/patten/singleton/Singleton.java" />
       </list>
     </option>
   </component>
@@ -271,23 +263,7 @@
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="patten" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="patten" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="abstr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="patten" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -541,12 +517,12 @@
       <workItem from="1518530592909" duration="4740000" />
       <workItem from="1518537336096" duration="131000" />
       <workItem from="1518749353563" duration="9928000" />
-      <workItem from="1518837154486" duration="10404000" />
+      <workItem from="1518837154486" duration="11521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56398000" />
+    <option name="totallyTimeSpent" value="57515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
@@ -651,13 +627,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ideaLibSources/cglib-2.2.2-sources.jar!/src/proxy/net/sf/cglib/proxy/Enhancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="204" column="16" lean-forward="false" selection-start-line="204" selection-start-column="16" selection-end-line="204" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/patten/proxy/cglib/patten.proxy.cglib.Zhouxinxin$$EnhancerByCGLIB$$d5544ad8.class" />
     <entry file="file://$PROJECT_DIR$/src/patten/proxy/cglib/patten.proxy.cglib.CgZhouxinxin$$EnhancerByCGLIB$$e60df071.class" />
     <entry file="file://$PROJECT_DIR$/src/patten/proxy/cglib/patten.proxy.cglib.CgZhouxinxin$$EnhancerByCGLIB$$e0808844.class">
@@ -913,8 +882,8 @@
         <state relative-caret-position="75">
           <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="false" />
+            <element signature="e#139#140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1061,7 +1030,15 @@
     <entry file="file://$PROJECT_DIR$/src/patten/factory/function/FunctionFactoryClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="56" />
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patten/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding />
         </state>
       </provider>
