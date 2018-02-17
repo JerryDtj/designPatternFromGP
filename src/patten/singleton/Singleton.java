@@ -23,15 +23,6 @@ public class Singleton {
         //方法中实现逻辑需要分配内存，也是调用时才分配的
         return LazyHolder.INSTANCE;
     }
-
-//	static int a = 1;
-//	//不管该class有没有实例化，static静态块总会在classLoader执行完以后，就加载完毕
-//	static{
-//		//静态块中的内容，只能访问静态属性和静态方法
-//		//只要是静态方法或者属性，直接可以用Class的名字就能点出来
-//		Singleton4.a = 2;
-//		//JVM 内存中的静态区，这一块的内容是公共的
-//	}
 }
 
 //我们所写的所有的代码，在java的反射机制面前，都是裸奔的
