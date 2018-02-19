@@ -1,5 +1,8 @@
 package patten.delegate;
 
+/**
+ * 委派模式
+ */
 public class Dispatcher implements Roboot {
 
     //声明具体的接口
