@@ -2,10 +2,8 @@ package patten.strategy;
 
 public class Player {
     private static double totalMoney=0D;
-
-
+//    用户购买皮肤方法
     public void buySkin(double pice){
-        System.out.println(totalMoney);
         BuySkin buySkin = null;
         if (totalMoney>=0&&totalMoney<=1000){
             buySkin = new Consumer();

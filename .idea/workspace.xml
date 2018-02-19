@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="676f36f3-6243-4eff-81c3-fb813345a116" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/strategy/BuySkin.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/strategy/Consumer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/strategy/Player.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/strategy/TestBuySkin.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/strategy/Vip1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/strategy/Vip2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/strategy/Vip3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/template/MakeBangBangNoodles.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/template/MakeNoodlesTemplate.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/patten/template/TemplateTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/delegate/Dispatcher.class" afterPath="$PROJECT_DIR$/out/production/designPattern/patten/delegate/Dispatcher.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPattern/patten/proxy/custom/$Proxy0.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/patten/strategy/Player.java" afterPath="$PROJECT_DIR$/src/patten/strategy/Player.java" />
+      <change beforePath="$PROJECT_DIR$/src/patten/strategy/Vip3.java" afterPath="$PROJECT_DIR$/src/patten/strategy/Vip3.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,21 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/patten/strategy/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="255">
+              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestBuySkin.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestBuySkin.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/patten/strategy/TestBuySkin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -49,8 +39,8 @@
       <file leaf-file-name="Vip1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/patten/strategy/Vip1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="56" />
+            <state relative-caret-position="210">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -59,8 +49,8 @@
       <file leaf-file-name="Vip2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/patten/strategy/Vip2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,9 +59,22 @@
       <file leaf-file-name="Vip3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/patten/strategy/Vip3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/patten/strategy/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/patten/factory/Roboot.java" />
-        <option value="$PROJECT_DIR$/src/patten/factory/RobootA.java" />
         <option value="$PROJECT_DIR$/src/patten/factory/RobootB.java" />
         <option value="$PROJECT_DIR$/src/patten/factory/RobootC.java" />
         <option value="$PROJECT_DIR$/src/patten/factory/SimpleFactory.java" />
@@ -161,12 +162,14 @@
         <option value="$PROJECT_DIR$/src/patten/strategy/Orginc.java" />
         <option value="$PROJECT_DIR$/src/patten/strategy/vip1.java" />
         <option value="$PROJECT_DIR$/src/patten/strategy/BuySkin.java" />
-        <option value="$PROJECT_DIR$/src/patten/strategy/Consumer.java" />
-        <option value="$PROJECT_DIR$/src/patten/strategy/Vip1.java" />
+        <option value="$PROJECT_DIR$/src/patten/strategy/TestBuySkin.java" />
+        <option value="$PROJECT_DIR$/src/patten/strategy/Player.java" />
+        <option value="$PROJECT_DIR$/src/patten/strategy/SpendInterval.java" />
         <option value="$PROJECT_DIR$/src/patten/strategy/Vip2.java" />
         <option value="$PROJECT_DIR$/src/patten/strategy/Vip3.java" />
-        <option value="$PROJECT_DIR$/src/patten/strategy/Player.java" />
-        <option value="$PROJECT_DIR$/src/patten/strategy/TestBuySkin.java" />
+        <option value="$PROJECT_DIR$/src/patten/strategy/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/patten/strategy/Vip1.java" />
+        <option value="$PROJECT_DIR$/src/patten/strategy/UserTypeFactory.java" />
       </list>
     </option>
   </component>
@@ -478,15 +481,16 @@
       <workItem from="1518537336096" duration="131000" />
       <workItem from="1518749353563" duration="9928000" />
       <workItem from="1518837154486" duration="15681000" />
-      <workItem from="1519011308318" duration="11879000" />
+      <workItem from="1519011308318" duration="13576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73554000" />
+    <option name="totallyTimeSpent" value="75251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -502,7 +506,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26800978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26800978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -575,26 +579,12 @@
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/patten/strategy/Player.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/patten/strategy/Player.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/patten/factory/Simple/LinZhilingFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/patten/factory/Simple/SimpleReflexFactory.java" />
     <entry file="file://$PROJECT_DIR$/src/patten/factory/Simple/SimpleFactoryTest.java" />
     <entry file="file://$PROJECT_DIR$/src/patten/factory/function/FunctionFactoryTest.java" />
     <entry file="file://$PROJECT_DIR$/src/patten/factory/simple/SimpleRobootFactory.java">
@@ -903,17 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/patten/strategy/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/patten/strategy/BuySkin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -922,42 +901,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/patten/strategy/Player.java">
+    <entry file="file://$PROJECT_DIR$/src/patten/strategy/TestBuySkin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/patten/strategy/Vip3.java">
+    <entry file="file://$PROJECT_DIR$/src/patten/strategy/SpendInterval.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/patten/strategy/Vip2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patten/strategy/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/patten/strategy/Vip1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="56" />
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/patten/strategy/TestBuySkin.java">
+    <entry file="file://$PROJECT_DIR$/src/patten/strategy/UserTypeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patten/strategy/Vip3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/patten/strategy/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding />
         </state>
       </provider>

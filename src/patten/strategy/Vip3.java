@@ -1,7 +1,7 @@
 package patten.strategy;
 
 /**
- * vip1
+ * vip3
  */
 public class Vip3 implements BuySkin {
     /**
